@@ -14,7 +14,7 @@ Projeto com o objetivo de gerar um Podcast com as facilidades de ferramentas de 
 * [ElevenLabs](https://elevenlabs.io/): para sintetizar o texto para áudio
 * [Crayon](https://www.craiyon.com/): para produzir a capa
 * [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/powerpoint): para editar as imagens do vídeo
-* [ShotCut](): para produzir o vídeo com as imagens e áudio do Podcast e background
+* [ShotCut](https://shotcut.org/): para produzir o vídeo com as imagens e áudio do Podcast e background
 
 ## 🔧 Instruções de Execução
 Utilize os prompts abaixo nas ferramentas sugeridas para gerar a imagem da capa e o conteúdo. Para produzir as imagens para o vídeo, utilize o PowerPoint ou LibreOffice. Enfim, a edição do áudio, vídeo e som de fundo foram realizadas com o ShotCut.
